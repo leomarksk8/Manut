@@ -1,6 +1,6 @@
 {
   "navigationFallback": {
-    "rewrite": "/index.html"
+    "rewrite": "https://manutpro.base44.app"
   },
   "routes": [
     {
